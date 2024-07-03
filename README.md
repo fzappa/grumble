@@ -35,7 +35,7 @@ hatch env create
 2. Start the Streamlit application:
 
 ```sh
-hatch run streamlit run app.py
+hatch run streamlit run grumble.py
 ```
 
 3. Open your web browser and navigate to `http://localhost:8501` to use the chatbot.
